@@ -29,21 +29,16 @@ if(h){
 
 
 // Part2222222 显式类型转换
-Boolean();
-Number();
-String();
-Object();
+// Boolean();
+// Number();
+// String();
+// Object();
 
-123.456.toFixed(1);
-toString();
-toFixed();
-toPrecision();
-toExponential();
 
-parseInt();
-parseFloat();
+//parseInt();
+//parseFloat();
 
-toString();
-valueOf();
+// toString();
+// valueOf();
 
 
